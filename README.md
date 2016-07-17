@@ -1,2 +1,2 @@
 # hello-treehouse
-Welcome Treehouse students! :sparkles:
+Welcome Treehouse students!
